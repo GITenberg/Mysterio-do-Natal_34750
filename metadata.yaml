@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9687
     wikipedia: http://pt.wikipedia.org/wiki/Coelho_Neto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34750#Mysterio-do-Natal
 gutenberg_issued: '2010-12-24'
 gutenberg_type: Text
 identifiers:
